@@ -14,4 +14,4 @@ ppt1 <br>
 
 레파지토리 명 변경하는법
 
-<img src = "레파지토리명 변경.png">
+<img src = "repository_name_change.jpg">
