@@ -6,6 +6,6 @@
 사진1 <br>
 <img scr = "da.png">
 ppt1
+[피피티](/project.pptx)
 
 [검색엔진](https://www.google.com/)
-[피피티](project.pptx)
