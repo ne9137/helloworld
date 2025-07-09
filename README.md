@@ -11,3 +11,7 @@ ppt1 <br>
 [피피티](/project.pptx) <br>
 
 [검색엔진](https://www.google.com/) <br>
+
+레파지토리 명 변경하는법
+
+<img src = "레파지토리명 변경.png">
