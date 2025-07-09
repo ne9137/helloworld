@@ -4,8 +4,8 @@
 ### Jupyter notebook 분석결과
 ### Streamlit을 활용한 웹 대시보드
 사진1 <br>
-<img scr = "da.png">
-ppt1
-[피피티](/project.pptx)
+<img scr = "da.png"> <br>
+ppt1 <br>
+[피피티](/project.pptx) <br>
 
-[검색엔진](https://www.google.com/)
+[검색엔진](https://www.google.com/) <br>
