@@ -7,4 +7,4 @@
 <img scr = "da.jpg">
 ppt1
 
-.[검색엔진].(https://www.google.com/)
+[검색엔진](https://www.google.com/)
